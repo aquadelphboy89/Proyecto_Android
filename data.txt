@@ -1,3 +1,4 @@
 Hola esto es un fichero 
 para añadirlo usando git
 para probar los comandos basicos.
+Esto se ha añadido despues. Segunda version.
